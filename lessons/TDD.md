@@ -10,6 +10,6 @@ Then, we start over by considering some additional functionality, writing tests 
 This process can be tedious, but it helps structure the process by separating design decisions from the coding process, and it assures that all code will be accompanied by fairly comprehensive tests.
 
 demo: battle4 (healing)
-work: greenGlassDoor (getScore), getRandomIntArray (pass in length and max value)
+work: greenGlassDoor (getScore), getRandomIntArray (pass in length and max value), triangular number. mode function?
 
 
