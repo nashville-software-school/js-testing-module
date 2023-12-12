@@ -19,3 +19,5 @@ Keep in mind that there can be more than one correct approach. Jest offers a lot
 Take a look at the mathUtils example, based on two mathematical functions. Complete the unit tests there so that they pass for these functions as they're written, and then fail if you make changes to break them.
 
 Next, try your hand at writing your own tests in the greenGlassDoor example. This function is based on a classic riddle, "What's behind the green glass door?". You keep guessing things until you figure out the rule: any word with identical consecutive letters (eg. "food", "bubbles", "piggies") is, and any non-double word (eg. "pickles", "chair", "piglets") is not. The tests should pass for the function as it is written and then fail if you break it.
+
+### Next up: [Spying](lessons/SPY.md)

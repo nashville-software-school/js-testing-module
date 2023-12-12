@@ -17,3 +17,5 @@ Delving into automated testing can offer insight for a developer, unlock powerfu
 Unit testing is isolating a particular function and running it with a variety of inputs to confirm that it behaves correctly. Integration testing is similar, but rather than isolating a section of code, it checks that different parts of the system work together properly. 
 
 We can write simple unit tests ourselves using basic JavaScript, but to implement robust testing needed for business software and websites it's far better to use a standard system. For JavaScript, we use a node package called Jest. The following lessons will focus on Jest unit testing. 
+
+### Next up: [Testing Javascript](lessons/TEST.md)
