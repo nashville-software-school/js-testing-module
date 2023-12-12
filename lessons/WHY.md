@@ -2,7 +2,7 @@
 
 ### Change is the only constant
 
-It's good to test our code while we're writing it. That helps us formally structure our intentions for a function and check that it works as expected. But the real benefit of these tests is that we keep them around to use later. Because of the need for updates, evolving requirements, and other issues that arise, we will often be revisiting existing code to make changes. And every time we do, there is some risk of introducing new bugs or unintended consequences. Unit testing acts as a safety net, allowing us to detect and address issues promptly, providing confidence that the changes we make do not break the software.
+It's good to test our code while we're writing it. That helps us formally structure our intentions for a function and check that it works as expected. But the real benefit of these tests is that we keep them around to use later. Because of the need for updates, evolving requirements, and other issues that arise, we will often be revisiting existing code to make changes. And every time we do, there is some risk of introducing new bugs or unintended consequences. Testing is a safety net to help catch problems promptly, lowering the chance that changes we make do not break our software.
 
 ### Quality is key
 
