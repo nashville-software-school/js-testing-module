@@ -12,4 +12,6 @@ This process can be tedious, but it helps structure the process by separating de
 demo: battle4 (healing)
 work: greenGlassDoor (getScore), getRandomIntArray (pass in length and max value), triangular number. mode function?
 
+### That's it!
 
+That's the end of this module on unit testing. Now you know the basics. To learn more about Jest, you can start exploring [the documentation](https://jestjs.io/docs/getting-started). Happy testing!

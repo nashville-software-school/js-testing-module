@@ -16,7 +16,7 @@ Also, this will prevent the original function from being called, so it helps kee
 
 ### Implement a Spy Yourself
 
-### Next up: [Mocking](lessons/MOCK.md)
+### Next up: [Mocking](MOCK.md)
 
 demo: battle2 (isDead)
 work: greeting1 (console.log), greenGlassDoor2 (track correct/incorrect)

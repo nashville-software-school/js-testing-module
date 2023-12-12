@@ -17,7 +17,7 @@ Mocking is particularly valuable in scenarios where external dependencies, such 
 
 ### Try it Yourself
 
-### Next up: [Test Driven Design](lessons/TDD.md)
+### Next up: [Test Driven Design](TDD.md)
 
 demo: battle3 (?)
 work: greeting2 (date for time of day), greenGlassDoor3 (check word)

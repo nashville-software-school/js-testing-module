@@ -16,4 +16,4 @@ Nobody is perfect, and we are going to make mistakes. While it's impossible to g
 
 To maintain code quality, we need to test throughout the development lifecycle. But the scale and complexity of modern software projects make routine manual testing impractical and error-prone. Writing tests in a structured format lets us run them quickly and even automate them. Testing rapidly and consistently helps us get quick, constant assessment feedback about our code quality, so we can minimize problems. That makes our bosses happy.
 
-### Next up: [Types of Testing](lessons/TYPES.md)
+### Next up: [Types of Testing](TYPES.md)

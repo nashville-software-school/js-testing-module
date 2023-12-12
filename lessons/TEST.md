@@ -24,4 +24,4 @@ See battle0_test2.mjs for an example. Note that we're using a separate function 
 
 We could write utility functions to handle all these helpful features (and more!), so that all our tests can just call those functions and remain concise and manageable. But we don't even have to do that! Some very smart people have already created this and written full documentation on how to use it, and millions of JavaScript developers like you use it every day. It's called Jest. And it's pretty darn pleasant to work with. You just need to get the hang of using it.
 
-### Next up: [Testing with Jest](lessons/JEST.md)
+### Next up: [Testing with Jest](JEST.md)
