@@ -10,14 +10,14 @@ For these lessons, I've named the rest of the test files ".x.js" so that Jest wo
 
 ### Side Note: How to Approach the Exercises
 
-When doing these exercises, you should it's OK to look at existing code elsewhere in the file or other examples you've seen, but don't copy-paste. When you think a test is complete, run your tests with "npx jest" in the root folder (where package.json is located). Then make a change to break that function and run your tests again to make sure they fail. When you're finished, you can compare your code with what's in the completed folder.
+When doing these exercises, it's fine to look at existing code elsewhere in the file or other examples you've seen, just don't copy-paste. When you think a test is complete, run your tests with "npx jest" in the root folder (where package.json is located). Then make a change to break that function and run your tests again to make sure they fail. When you're finished, you can compare your code with the version in the completed folder.
 
-Keep in mind that there can be more than one correct approach. Jest offers a lot of options for structuring and formatting your tests. In future, you'll definitely see tests formatted differently. Jest provides excellent documentation to reference if you see an example that looks different, or to learn more about the many features and options available.
+Keep in mind that there can be more than one correct approach. We're focusing on the basics here, which will give a general understanding of the concepts and empower you to unit test most things properly. Jest offers a lot of options for structuring and formatting your tests. In future, you'll definitely see tests formatted differently, and might get confounded by the different ways to approach things. But Jest provides good documentation to reference if you see an example that looks different, or want to learn more about the many features and options available.
 
 ### Practice on your Own
 
 Take a look at the mathUtils example, based on two mathematical functions. Complete the unit tests there so that they pass for these functions as they're written, and then fail if you make changes to break them. Remember, to run your tests, open terminal and navigate to the root directory, then type "npx jest".
 
-Next, try your hand at writing your own tests in the greenGlassDoor example. This function is based on a classic riddle, "What's behind the green glass door?". You keep guessing things until you figure out the rule: any word with identical consecutive letters (eg. "food", "bubbles", "piggies") is, and any non-double word (eg. "pickles", "chair", "piglets") is not. The tests should pass for the function as it is written and then fail if you break it.
+Next, try your hand at writing your own tests in the greenGlassDoor example. This function is based on a classic riddle, "What's behind the green glass door?". The player guesses things until they figure out the rule: any word with identical consecutive letters (eg. "food", "bubbles", "piggies") is behnd the door, and any non-double word (eg. "pickles", "chair", "piglets") is not. The tests should pass for the function as it is written and then fail if you break it.
 
 ### Next up: [Spying](SPY.md)
