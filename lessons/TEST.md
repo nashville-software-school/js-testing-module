@@ -14,7 +14,7 @@ If you want to properly test the function, you need to run it with a variety of 
 
 If we want to have comprehensive tests for all our functions, that's going to really clutter things up. It'll make our files much bigger and harder to navigate. And it'll fill our console with lots of messages that we usually don't care about. We can solve this by modularizing our tests. By putting them in separate files that import the functions they test, we can keep that code out of our regular production code, and we can run them separately so we don't get a flood of messages every time we run the program. 
 
-For an example, remove the console.logs from battle0.mjs, then look at battle0_test1.mjs. You can run this test by going into the lessons folder and typing node battle1_test2.mjs. Now you have a file with just your production code, and a corresponding file with all your tests. And you won't see any test logs when you run your program; only when you run the tests.
+For an example, remove the console.logs from battle0.mjs, then look at battle0_test1.mjs. You can run this test by going into the examples folder and typing node battle1_test2.mjs. Now you have a file with just your production code, and a corresponding file with all your tests. And you won't see any test logs when you run your program; only when you run the tests.
 
 ### Streamlining how we Test
 
