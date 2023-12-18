@@ -13,11 +13,10 @@ To isolate a function for testing, we can use mocking to intercept calls to othe
 Mocking is particularly valuable in scenarios where external dependencies, such as database calls or network requests, are involved. By simulating these dependencies through mocking, we can create controlled environments that don't use the actual external services. This improves efficiency of the testing process, it helps us catch issues earlier (before those other components are built), and lets us test repeatedly without changing persistent data. 
 
 ### Looking at an Example
-
+battle3 - randomize damage
 
 ### Try it Yourself
+greeting2 (date for time of day)
+greenGlassDoor3 (check word)
 
 ### Next up: [Test Driven Design](TDD.md)
-
-demo: battle3 (?)
-work: greeting2 (date for time of day), greenGlassDoor3 (check word)
