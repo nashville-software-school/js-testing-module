@@ -12,11 +12,6 @@ describe('battle2 > die', () => {
     jest.clearAllMocks();
   });
 
-    // jest.spyOn(hero, 'die').mockImplementation(() => {
-    //   console.log('Mocked Game Over'); 
-    // });
-
-
   it("calls die() when health reaches 0", () => {
     hero.takeDamage(100);
 

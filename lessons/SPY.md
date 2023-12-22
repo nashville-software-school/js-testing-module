@@ -10,8 +10,9 @@ To see this in action, open the battle2 example (and rename the test file so it 
 We do this using a couple of the functions provided by expect(). We also need to set this up using the spyOn() function, and we reset the counter after each test with clearAllMocks(). Also, note that we've put this setup and cleanup code in special functions that will run before and after each test. 
 
 ### Implement a Spy Yourself
-greeting1 (console.log)
-greenGlassDoor2 (track correct/incorrect)
+Take a look at the greeting1 example. This function doesn't return anything, but it does sometimes call console.log. Use Jest's spy functionality to check when and how it is called.
+
+Next, try your hand at greenGlassDoor2. Implement the tests as described. Keep in mind that while clearAllMocks does reset Jest's counters, it won't reset any changes we've made within our code.
 
 
 ### Next up: [Mocking](MOCK.md)

@@ -3,7 +3,7 @@ import { greeting } from './greeting1.js';
 
 describe('greeting1 > log greeting', () => {
 
-  beforeEach(() => {
+  beforeAll(() => {
     jest.spyOn(console, 'log');
   });
 

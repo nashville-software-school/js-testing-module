@@ -40,4 +40,8 @@ export const factorial = (n) => {
     }
   
     return result;
-  }
+}
+
+//TODO: after you've written tests for a triangular number function, implement it here
+
+//TODO: after you've written tests for a median function, implement it here
