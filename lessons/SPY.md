@@ -9,6 +9,8 @@ To see this in action, open the **<code>battle2</code>** example (and rename the
 
 We do this using a couple of the functions provided by **<code>expect</code>**. We also need to set this up using the **<code>spyOn()</code>** function, and we reset the counter after each test with **<code>clearAllMocks()</code>**. Also, note that we've put this setup and cleanup code in special functions that will run before and after each test. 
 
+https://github.com/nashville-software-school/js-testing-module/assets/138717917/55f8be3a-3e8a-4151-bd84-427e083ab3a7
+
 ### Implement a Spy Yourself
 Take a look at the **<code>greeting1</code>** example. This function doesn't return anything, but it does sometimes call **<code>console.log()</code>**. Use Jest's spy functionality to check when and how it is called.
 
