@@ -14,6 +14,8 @@ Also, keep in mind that there can be more than one correct approach. We're focus
 
 Finally, for these lessons, I've named the rest of the test files ".x.js" so that Jest won't find and run any that you haven't yet gotten to. When you start an exercise, rename that test file to end with ".test.js". If you want, you can rename each file back when you're finished with it, but this is optional. Jest has no trouble running tests spread across lots of different files.
 
+https://github.com/nashville-software-school/js-testing-module/assets/138717917/79da1a70-2196-44db-99ce-ec699faeb191
+
 ### Practice on your Own
 
 Take a look at the **<code>mathUtils</code>** example, based on two mathematical functions. Complete the unit tests there so that they pass for these functions as they're written, and then fail if you make changes to break them. Remember, to run your tests, open terminal and navigate to the root directory, then type **<code>npx jest</code>**.
