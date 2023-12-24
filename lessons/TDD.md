@@ -13,8 +13,7 @@ This process can be tedious, but it helps structure the process by separating de
 
 First, take a look at the **<code>battle4</code>** example. In the test file, we have already written three tests for a new function. Run those tests and they will fail. That's OK in the red phase. But now that those are complete, we need to write a function that makes the tests pass, so we're in the green phase. As soon as they do, we could do some cleanup (blue phase) or progress to the next red phase, writing tests for another piece of functionality.
 
-<video src="../videos/tdd.mp4" controls="controls" style="max-width: 730px;">
-</video>
+### [Video](../videos/tdd.mp4)
 
 ### Try it Yourself
 
@@ -22,7 +21,7 @@ Next, look at **<code>mathUtils2</code>** example. Here, we're going to build on
 
 First, you should add a function called triangular() that will calculate the triangular number of an integer. A triangular number is the sum of all positive integers that are less than or equal to that number (you can iterate like we did for factorial, but using addition instead of multiplication). First, write a new group of tests that pass in positive numbers, negative numbers, non-integers, zero, and maybe even non-numbers. Then write the function to pass all your tests. Don't read any further until you've finished.
 
-Next, add a function to calculate the median value of an array of numbers. As before, start by adding a group of tests. You should definitely test numbers out of order, including negative numbers and non-integers. If you want, you might consider how to handle non-numberic elements, or an empty array or non-array value. Once you're finished writing tests, implement the function. Don't read any further until you've finished.
+Next, add a function to calculate the median value of an array of numbers. As before, start by adding a group of tests. You should definitely test numbers out of order, including negative numbers and non-integers. If you want, you might consider how to handle non-numeric elements, or an empty array or non-array value. Once you're finished writing tests, implement the function. Don't read any further until you've finished.
 
 Oh, boy! It turns out there's a quicker way to calculate a triangular number! Search for the mathematical formula, then update your code. Are you sure this works? No worries - just re-run your tests! We're often going back and changing code, so hopefully this illustrates how nice it is to have a set of tests to help assure that you don't break things.
 
