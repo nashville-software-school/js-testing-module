@@ -13,7 +13,7 @@ This process can be tedious, but it helps structure the process by separating de
 
 First, take a look at the **<code>battle4</code>** example. In the test file, we have already written three tests for a new function. Run those tests and they will fail. That's OK in the red phase. But now that those are complete, we need to write a function that makes the tests pass, so we're in the green phase. As soon as they do, we could do some cleanup (blue phase) or progress to the next red phase, writing tests for another piece of functionality.
 
-### [Video](../videos/tdd.mp4)
+https://github.com/nashville-software-school/js-testing-module/assets/138717917/38dd49ad-f83c-4f5a-901d-b4bbe0fdf971
 
 ### Try it Yourself
 
