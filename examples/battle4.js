@@ -7,5 +7,4 @@ export const hero = {
             this.health -= amount;
         }
     }
-    //TODO: write a healDamage method that makes the existing tests all pass
 }
