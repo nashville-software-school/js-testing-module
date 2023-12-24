@@ -1,4 +1,4 @@
-import { isPrime, factorial } from './mathUtils.js';
+import { isPrime, factorial } from './mathUtils1.js';
 
 describe('mathUtils > isPrime', () => {
   it("returns true for a prime number", () => {

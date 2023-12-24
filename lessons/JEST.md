@@ -18,8 +18,8 @@ https://github.com/nashville-software-school/js-testing-module/assets/138717917/
 
 ### Practice on your Own
 
-Take a look at the **<code>mathUtils</code>** example, based on two mathematical functions. Complete the unit tests there so that they pass for these functions as they're written, and then fail if you make changes to break them. Remember, to run your tests, open terminal and navigate to the root directory, then type **<code>npx jest</code>**.
+Take a look at the **<code>mathUtils1</code>** example, based on two mathematical functions. Complete the unit tests there so that they pass for these functions as they're written, and then fail if you make changes to break them. Remember, to run your tests, open terminal and navigate to the root directory, then type **<code>npx jest</code>**.
 
-Next, try your hand at writing your own tests in the **<code>greenGlassDoor</code>** example. This function is based on a classic riddle, "What's behind the green glass door?". The player guesses things until they figure out the rule: any word with identical consecutive letters (eg. "food", "bubbles", "piggies") is behnd the door, and any non-double word (eg. "pickles", "chair", "piglets") is not. The tests should pass for the function as it is written and then fail if you break it.
+Next, try your hand at writing your own tests in the **<code>greenGlassDoor1</code>** example. This function is based on a classic riddle, "What's behind the green glass door?". The player guesses things until they figure out the rule: any word with identical consecutive letters (eg. "food", "bubbles", "piggies") is behind the door, and any non-double word (eg. "pickles", "chair", "piglets") is not. The tests should pass for the function as it is written and then fail if you break it.
 
 ### Next up: [Spying](SPY.md)
