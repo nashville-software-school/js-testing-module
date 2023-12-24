@@ -18,4 +18,6 @@ Unit testing is isolating a particular function and running it with a variety of
 
 We can write simple unit tests ourselves using basic JavaScript, but to implement robust testing needed for business software and websites it's far better to use a standard system. For JavaScript, we use a node package called Jest. The following lessons will focus on Jest unit testing. 
 
+https://github.com/nashville-software-school/js-testing-module/assets/138717917/1fb0a7dc-993b-46ac-acd8-1e979d5f99ee
+
 ### Next up: [Testing Javascript](TEST.md)
