@@ -18,6 +18,7 @@ Let's take a look at the **<code>battle3</code>** example. Here, we've added a d
 
 That's how we can implement a mock using our spy functionality. There's another way to mock a function by directly replacing it with another function. In **<code>battle3_fn.test.js</code>**, the tests are the same, but our setup functions are different. We use **<code>jest.fn</code>** to define a new function that we can temporarily assign to override the original. When we're finished, we need to restore the original, so we have to be sure to save a reference to that before we start.
 
+https://github.com/nashville-software-school/js-testing-module/assets/138717917/6aad0d98-d8d9-41da-a1eb-34d550ac9936
 
 ### Try it Yourself
 
