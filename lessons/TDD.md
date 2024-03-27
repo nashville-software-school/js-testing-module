@@ -28,3 +28,9 @@ Oh, boy! It turns out there's a quicker way to calculate a triangular number! Se
 ### That's it!
 
 That's the end of this module on unit testing with Jest. Now you know the fundamental concepts. To learn more about Jest, you can start exploring [the documentation](https://jestjs.io/docs/getting-started). Happy testing!
+
+### ...or is it?
+
+These lessons have covered testing vanilla JavaScript with Jest. Testing React takes a bit more setup, and some specific syntax. If you'd like to implement testing on your capstone project, check out this next lesson.
+
+### Next up: [Testing React with Vite](VITE.md)
