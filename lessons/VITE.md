@@ -1,6 +1,6 @@
 # Testing React with Vite
 
-If you have any trouble with this process, you can refer to the **<code>vite_example</code>** folder in the **<code>completed</code>** folder of this repository.
+Writing unit tests for a Vite-based React app is generally similar to how we do it for vanilla JavaScript. There's a bit of setup, which we'll walk through here. If you have any trouble with this process, you can refer to the **<code>vite_example</code>** folder in the **<code>completed</code>** folder of this repository.
 
 ### Create a Sample Vite React App
 
