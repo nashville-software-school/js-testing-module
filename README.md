@@ -16,3 +16,4 @@ This crash course will introduce you to the fundamental concepts of software tes
 
 ### [Test Driven Design](lessons/TDD.md)
 
+### [Testing React with Vite](lessons/VITE.md)
